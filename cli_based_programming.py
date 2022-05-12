@@ -40,11 +40,6 @@ print(
     sep="\n"
 )
 
-#Optional libraries, for ignoring warnings
-from cryptography import CryptographyDeprecationWarning
-from warnings import filterwarnings, warn
-filterwarnings("ignore")
-warn("deprecated", CryptographyDeprecationWarning)
 
 #import library to connect to the networking device
 from netmiko import ConnectHandler
