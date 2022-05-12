@@ -22,7 +22,7 @@ __author__ = "Tahsin Chowdhury <tchowdhu@cisco.com>"
 __contributors__ = [
     "Tahsin Chowdhury <tchowdhu@cisco.com>"
 ]
-__copyright__ = "Copyright (c) {{current_year}} Cisco and/or its affiliates."
+__copyright__ = "Copyright (c) 2022 Cisco and/or its affiliates."
 __license__ = "Cisco Sample Code License, Version 1.1"
 
 
